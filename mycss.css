@@ -1,0 +1,32 @@
+.section1  {outline-style: solid;
+	    background-color:#FFA07A;
+	    
+	    h2{text-align:left;
+       	font-weight:bold;
+       	font-family: "Times New Roman", serif;
+      		font-size:13pt;}
+      	    
+      	    h4{font-family:"Arial",sans-serif;
+      	       color:blue;}
+      	       
+      	    img{height:172pt;
+      		width:172pt;    
+      		}}
+
+.section2 {table{border:3px solid;
+	   	 padding:10px;
+	   	 background-color:#ADD8E6;}
+	   th{text-decoration-line: underline;
+	      border:1px solid;}
+	   td{border:1px solid;}}
+
+.section3 {display:flex;
+	    ul{background-color:green;
+	       border:3px solid;}}
+	    ol{background-color:#FFB6C1;
+	       border:3px solid;
+	       list-style-type: lower-roman;}}
+
+body{
+background-image: url("2.jpg");
+}	          
